@@ -1,0 +1,5 @@
+{
+    "backup_day_limit": 21,
+    "backup_dir": "/mnt/alpha/db_backups",
+    "newkey": 5.0005
+}
